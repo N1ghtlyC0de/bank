@@ -1,0 +1,10 @@
+class Colors:
+  VIOLETA = '\033[95m'
+  AZUL = '\033[94m'
+  CYAN = '\033[96m'
+  VERDE = '\033[92m'
+  AMARILLO = '\033[93m'
+  ROJO = '\033[91m'
+  DEFAULT = '\033[0m'
+  ENFASIS = '\033[1m'
+  SUBRAY = '\033[4m'
