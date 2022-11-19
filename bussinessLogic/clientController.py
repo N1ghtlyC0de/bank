@@ -1,4 +1,4 @@
-  from data.cancelTransaction import CancelTransaction
+from data.cancelTransaction import CancelTransaction
 
 
 class ClientController():
